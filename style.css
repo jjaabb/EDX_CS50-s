@@ -1,8 +1,11 @@
-h1{color:royalblue}
-h1{background-color: springgreen}
-body{color: saddlebrown}
+h1{color:royalblue; text-align: center; background-color: springgreen; padding: 20px;}
+body{color: saddlebrown; text-align: center;}
 h2{color: seagreen}
-h3{color: skyblue}
-img{width: 70%;}
+h3{color: skyblue;}
+img{width: 70%; align-self: left;}
 
-table{border: solid, black;}
+table{border: 3px solid black; text-align: center; border-collapse:collapse; width: 35%;}
+td{border: 1px solid black; text-align: center; border-collapse:collapse}
+th{border: 1px solid black; text-align: center;}
+#div1{color: blue; text-align: left;}
+#div2{color: green; text-align: right;}
