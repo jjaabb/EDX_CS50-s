@@ -7,5 +7,12 @@ img{width: 70%; align-self: left;}
 table{border: 3px solid black; text-align: center; border-collapse:collapse; width: 35%;}
 td{border: 1px solid black; text-align: center; border-collapse:collapse}
 th{border: 1px solid black; text-align: center;}
+
+/* # means that this is ID */
 #div1{color: blue; text-align: left;}
 #div2{color: green; text-align: right;}
+
+/*Dot means that is class*/
+.name{font-weight: bold;}
+
+/* ID is best for 1 itme to style, class can be used for mutiple elements*/
